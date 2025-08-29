@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-google-genai
+python-dotenv
+beautifulsoup4
+unstructured
+fake_useragent
+youtube-transcript-api
+openpyxl
+tabulate
+pandas
